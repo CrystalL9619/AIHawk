@@ -8,7 +8,7 @@ experienceLevel:
   director: false
   executive: false
 
-jobType
+jobType:
   full-time: true
   contract: false
   part-time: false
