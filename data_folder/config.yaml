@@ -8,14 +8,14 @@ experienceLevel:
   director: false
   executive: false
 
-jobTypes:
+jobType
   full-time: true
   contract: false
   part-time: false
   temporary: true
   internship: false
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
   all time: false
@@ -25,9 +25,15 @@ date:
 
 positions:
   - Software engineer
+  - Software Developer
+  - .NET Developer
+  - Web Developer
+  - Junior web developer
+  - Backend developer
+  - Web Designer
 
 locations:
-  - Germany
+  - Ontario
 
 apply_once_at_company: true
 
@@ -46,5 +52,5 @@ job_applicants_threshold:
   max_applicants: 30
 
 llm_model_type: openai
-llm_model: 'gpt-4o-mini'
+llm_model: "gpt-4o-mini"
 # llm_api_url: https://api.pawan.krd/cosmosrp/v1'
