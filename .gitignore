@@ -158,3 +158,6 @@ mono_crash.*
 
 /generated_cv
 data_folder/secrets.yaml
+
+# ignore
+secrets.yaml
