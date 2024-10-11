@@ -8,7 +8,7 @@ experienceLevel:
   director: false
   executive: false
 
-jobType:
+jobTypes:
   full-time: true
   contract: false
   part-time: false
@@ -25,12 +25,13 @@ date:
 
 positions:
   - Software engineer
-  - Software Developer
-  - .NET Developer
-  - Web Developer
-  - Junior web developer
+  - Software developer
+  - web developer
+  - Junior Web Developer
+  - .NET developer
   - Backend developer
-  - Web Designer
+  - Full Stack engineer
+  - Full Stack developer
 
 locations:
   - Ontario
@@ -40,8 +41,7 @@ apply_once_at_company: true
 distance: 100
 
 company_blacklist:
-  - wayfair
-  - Crossover
+  - Stan
 
 title_blacklist:
   - word1
