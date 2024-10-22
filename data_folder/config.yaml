@@ -19,9 +19,9 @@ jobTypes:
 
 date:
   all time: false
-  month: false
+  month: true
   week: false
-  24 hours: true
+  24 hours: false
 
 positions:
   - Software engineer
@@ -32,6 +32,7 @@ positions:
   - Backend developer
   - Full Stack engineer
   - Full Stack developer
+  - C#
 
 locations:
   - Ontario
