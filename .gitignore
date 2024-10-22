@@ -160,4 +160,4 @@ mono_crash.*
 data_folder/secrets.yaml
 
 # ignore
-secrets.yaml
+#secrets.yaml
